@@ -4,7 +4,7 @@
 📢 About Me
 - 🚀 **Goal**: 사용자의 일상을 편리하게 만드는 안드로이드 개발자
 - 💼 **Background**: 전 직장은 서비스 센터로 **수리 및 고객 상담** 업무를 맡아로 근무하며 **동료와의 협력, 고객과의 소통**을 배웠습니다.
-- 💻 **Current**: **Kotlin**과 **Android**의 매력에 빠져 있으며, **Flutter**를 추가로 학습 중입니다. 매일 알고리즘 문제를 풀며 논리력을 키우고 있습니다.<br><br>
+- 💻 **Current**: **Kotlin**과 **Android**의 매력에 빠져 있으며, **Flutter**를 추가로 학습 중입니다. 알고리즘 문제를 풀며 논리력을 키워가고 있습니다.<br><br>
 
 ## 🚀 Skills
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -12,7 +12,10 @@
 ![Room](https://img.shields.io/badge/Room%20DB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)<br><br>
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br><br>
 
 ## 👩‍💻 IDE
 ![Intellij](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)

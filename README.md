@@ -31,6 +31,6 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=its10623)](https://solved.ac/its10623)
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=its10623&show_icons=true&theme=ocean" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its10623&layout=compact&theme=ocean" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=its10623&show_icons=true&theme=ocean" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=its10623&layout=compact&theme=ocean" />
 </div>

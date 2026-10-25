@@ -60,8 +60,8 @@
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[데이터베이스] - 관계 데이터 모델](https://velog.io/@its10623/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B4%80%EA%B3%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8)
-- [[데이터베이스] - 데이터베이스 관리 시스템 &lpar;DBMS&rpar;](https://velog.io/@its10623/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B4%80%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-DBMS)
+- [[SeSAC] 22일차 - 상태 관리 도입과 Firebase Storage 프로필 이미지 연동기](https://velog.io/@its10623/SeSAC-22%EC%9D%BC%EC%B0%A8-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC-%EB%8F%84%EC%9E%85%EA%B3%BC-Firebase-Storage-%ED%94%84%EB%A1%9C%ED%95%84-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B0%EB%8F%99%EA%B8%B0)
+- [[SeSAC] 20일차 - Firebase Authentication을 활용한 회원가입/로그인 페이지 구축](https://velog.io/@its10623/SeSAC-20%EC%9D%BC%EC%B0%A8-Firebase-Authentication%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%AC%EC%B6%95)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

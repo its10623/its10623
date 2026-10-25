@@ -1,38 +1,69 @@
-# HI There!👋
-![header](https://capsule-render.vercel.app/api?type=speech&color=87CEEB&height=250&section=header&text=SM's%20Github&fontSize=70&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=rect&color=2B5CE5&height=140&section=header&text=Sumin%20Lim%20%7C%20Flutter%20Developer&fontSize=40&fontColor=FFFFFF&fontAlignY=50)
 
-📢 About Me
-- 🚀 **Goal**: 사용자의 일상을 편리하게 만드는 안드로이드 개발자
-- 💼 **Background**: 전 직장은 서비스 센터로 **수리 및 고객 상담** 업무를 맡아로 근무하며 **동료와의 협력, 고객과의 소통**을 배웠습니다.
-- 💻 **Current**: **Kotlin**과 **Android**의 매력에 빠져 있으며, **Flutter**를 추가로 학습 중입니다. 알고리즘 문제를 풀며 논리력을 키워가고 있습니다.<br><br>
+### 사용자 경험과 코드의 안정성을 고민하는 Flutter 개발자, 임수민입니다.
 
-## 🚀 Skills
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Room](https://img.shields.io/badge/Room%20DB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+- 🔧 **Background**: 서비스센터에서 8년간 드론·VR·PC 부품의 기술 상담과 수리를 맡으며, 증상을 재현하고 원인을 좁혀 가는 습관을 길렀습니다.
+- 📱 **Now**: Flutter로 AI 기반 IT 학습 앱 **혼터디**를 기획부터 App Store 출시까지 혼자 완주했습니다.
+- 🎯 **Focus**: LLM 응답처럼 예측하기 어려운 데이터도 앱의 경계에서 검증해, 사용자가 믿고 쓸 수 있는 앱을 만듭니다.
+
+<br>
+
+## 🚀 Projects
+
+| 프로젝트 | 소개 | 기술 |
+|---|---|---|
+| **혼터디**<br>[GitHub](https://github.com/its10623/Hontudy_Flutter_Project) · [App Store](https://apps.apple.com/kr/app/%ED%98%BC%ED%84%B0%EB%94%94/id6819966224) | AI 대화로 IT 지식 수준을 진단하고 맞춤 문제를 내주는 학습 앱<br>1인 개발 · App Store 출시 | Flutter · Riverpod · Firebase<br>OpenAI · Gemini |
+| **모노 다이어리**<br>[GitHub](https://github.com/its10623/Mono_Diary) | 글자에 집중하는 모노톤 감성의 개인 다이어리 Android 앱<br>첫 Android 앱 · 1인 개발 | Kotlin · Jetpack Compose<br>Hilt · Room |
+
+📄 **Portfolio** · [its10623.github.io/portfolio.pdf](https://its10623.github.io/portfolio.pdf)<br>
+✍️ **Blog** · [velog.io/@its10623](https://velog.io/@its10623)
+
+<br>
+
+## 🛠 Skills
+
+**Main**<br>
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br><br>
 
-## 👩‍💻 IDE
-![Intellij](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)<br><br>
+**Android**<br>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-## 💻 OS
-![mac os](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)<br><br>
+**AI**<br>
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
-## ✉️Contacts
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:its10623@gmail.com)
-[![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:its10623@naver.com)
+**Tools**<br>
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<br>
 
 ---
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=its10623)](https://solved.ac/its10623)
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=its10623&show_icons=true&theme=ocean" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=its10623&layout=compact&theme=ocean&langs_count=6" />
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=its10623)](https://solved.ac/its10623)
+
+<div align="">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=its10623&theme=github_dark" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=its10623&theme=github_dark" />
 </div>
+
+<br>
+
+## ✍️ Latest Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+
+## ✉️ Contact
+
+[![Gmail](https://img.shields.io/badge/its10623@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:its10623@gmail.com)

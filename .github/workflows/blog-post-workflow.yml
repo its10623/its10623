@@ -17,5 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://v2.velog.io/rss/@its10623"
-          max_post_count: "5"
+          max_post_count: "2"
           readme_path: "./README.md"

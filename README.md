@@ -60,6 +60,8 @@
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[데이터베이스] - 관계 데이터 모델](https://velog.io/@its10623/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B4%80%EA%B3%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8)
+- [[데이터베이스] - 데이터베이스 관리 시스템 &lpar;DBMS&rpar;](https://velog.io/@its10623/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B4%80%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-DBMS)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

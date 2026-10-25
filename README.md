@@ -62,6 +62,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [[혼터디] Flutter AI 학습 앱 기획부터 설계까지 회고](https://velog.io/@its10623/6.-%ED%98%BC%ED%84%B0%EB%94%94-Flutter-AI-%ED%95%99%EC%8A%B5-%EC%95%B1-%EA%B8%B0%ED%9A%8D%EB%B6%80%ED%84%B0-%EC%84%A4%EA%B3%84%EA%B9%8C%EC%A7%80-%ED%9A%8C%EA%B3%A0)
 - [[SeSAC] 22일차 - 상태 관리 도입과 Firebase Storage 프로필 이미지 연동기](https://velog.io/@its10623/SeSAC-22%EC%9D%BC%EC%B0%A8-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC-%EB%8F%84%EC%9E%85%EA%B3%BC-Firebase-Storage-%ED%94%84%EB%A1%9C%ED%95%84-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B0%EB%8F%99%EA%B8%B0)
+- [[SeSAC] 20일차 - Firebase Authentication을 활용한 회원가입/로그인 페이지 구축](https://velog.io/@its10623/SeSAC-20%EC%9D%BC%EC%B0%A8-Firebase-Authentication%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%AC%EC%B6%95)
+- [[SeSAC] 19일차 - SharedPreferences 데이터 고도화 및 Firebase 연동 준비](https://velog.io/@its10623/SeSAC-19%EC%9D%BC%EC%B0%A8-SharedPreferences-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%A0%EB%8F%84%ED%99%94-%EB%B0%8F-Firebase-%EC%97%B0%EB%8F%99-%EC%A4%80%EB%B9%84)
+- [[SeSAC] 18일차 - GoRouter 바텀 네비게이션 적용과 SharedPreferences 데이터 영구 저장](https://velog.io/@its10623/SeSAC-18%EC%9D%BC%EC%B0%A8-GoRouter-%EB%B0%94%ED%85%80-%EB%84%A4%EB%B9%84%EA%B2%8C%EC%9D%B4%EC%85%98-%EC%A0%81%EC%9A%A9%EA%B3%BC-SharedPreferences-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%98%81%EA%B5%AC-%EC%A0%80%EC%9E%A5)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
